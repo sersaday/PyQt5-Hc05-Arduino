@@ -1,13 +1,5 @@
          Ubuntu işletim sistemi için bluetooth istemcisi örneğidir. 
 
-
-
-
-
-
-
-
-
 1-Ubuntu için bluetooth python kütüphanesi pybluez'dir.
 
 		pip install PyBluez

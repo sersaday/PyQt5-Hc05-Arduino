@@ -43,7 +43,7 @@ class Ui_Form(object):
         self.LedYak.clicked.connect(self.Yak)
 
         self.LedSon = QtWidgets.QPushButton(Form)
-        self.LedSon.setGeometry(QtCore.QRect(110, 60, 89, 25))
+        self.LedSon.setGeometry(QtCore.QRect(110, 60, 91, 25))
         self.LedSon.setObjectName("LedSon")
         self.LedSon.clicked.connect(self.Son)
 
