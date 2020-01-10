@@ -1,12 +1,8 @@
 /* 
- Processing ile Android İşletim Sistemi Üzerinde
- Bluetooth protokolü kullanımı Örneği - 1
+ Python bluetooth client programı gönderilen A ve B datalarına göre led yakıp söndüren  
+ Bluetooth protokolü kullanımı Örneği
  
- Processing üzerinden gelen verilerle
- Arduino 8,9,10,11 nolu pinlere bağlı
- 4 adet LED Kontrol ediliyor.
- A,C,E,G karakterleri geldiğinde LED'ler yakılıyor
- B,D,F,H karakterleri geldiğinde ise LED'ler söndürülüyor
+ Author:Serhat Saday
  
  */
 
